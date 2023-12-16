@@ -1,0 +1,449 @@
+Airlines,Depart Time,Arrival Time,Departure Location,Destination,Flight Duration,Direct Flight,Layover Time,Transit Location,Transit Airport,Price,Website
+Finnair,9:25 am,10:55 am,HEL,VIE,2h 30m,True,,,,$117,Kayak
+Ryanair,10:45 am,6:25 pm,HEL,VIE,8h 40m,False,4h 00m,BGY,Bergamo Orio Al Serio,$82,Kayak
+Finnair,5:00 pm,6:30 pm,HEL,VIE,2h 30m,True,,,,$138,Kayak
+airBaltic,3:30 pm,6:40 pm,HEL,VIE,4h 10m,False,1h 10m,RIX,Riga Intl,$83,Kayak
+airBaltic,5:20 am,8:25 am,HEL,VIE,4h 05m,False,1h 05m,RIX,Riga Intl,$103,Kayak
+KLM,6:10 pm,10:40 pm,HEL,VIE,5h 30m,False,1h 10m,AMS,Amsterdam Schiphol,$120,Kayak
+"airBaltic, Austrian Airlines",3:30 pm,6:40 pm,HEL,VIE,4h 10m,False,1h 10m,RIX,Riga Intl,$182,Kayak
+"Scandinavian Airlines, Austrian Airlines",6:20 pm,9:50 pm,HEL,VIE,4h 30m,False,1h 00m,CPH,Kastrup Copenhagen,$177,Kayak
+"airBaltic, Austrian Airlines",5:20 am,8:25 am,HEL,VIE,4h 05m,False,1h 05m,RIX,Riga Intl,$216,Kayak
+Austrian Airlines,6:20 pm,9:50 pm,HEL,VIE,4h 30m,False,1h 00m,CPH,Kastrup Copenhagen,$213,Kayak
+"Norwegian, Austrian Airlines",7:40 am,12:05 pm,HEL,VIE,5h 25m,False,2h 00m,ARN,Stockholm Arlanda,$135,Kayak
+Austrian Airlines,7:25 am,12:05 pm,HEL,VIE,5h 40m,False,2h 15m,ARN,Stockholm Arlanda,$179,Kayak
+Air France,5:40 pm,10:55 pm,HEL,VIE,6h 15m,False,1h 00m,CDG,Paris Charles de Gaulle,$162,Kayak
+"airBaltic, Ryanair",5:20 am,11:25 am,HEL,VIE,7h 05m,False,0h 50m,RIX,Riga Intl,$106,Kayak
+Scandinavian Airlines,6:20 pm,9:50 pm,HEL,VIE,4h 30m,False,1h 00m,CPH,Kastrup Copenhagen,$255,Kayak
+Austrian Airlines,2:00 pm,6:45 pm,HEL,VIE,5h 45m,False,1h 30m,FRA,Frankfurt am Main,$190,Kayak
+Austrian Airlines,1:30 pm,5:35 pm,HEL,VIE,5h 05m,False,1h 45m,ARN,Stockholm Arlanda,$233,Kayak
+"airBaltic, Ryanair",5:20 am,11:25 am,HEL,VIE,7h 05m,False,0h 50m,RIX,Riga Intl,$106,Kayak
+Lufthansa,2:00 pm,6:45 pm,HEL,VIE,5h 45m,False,1h 30m,FRA,Frankfurt am Main,$192,Kayak
+"Finnair, airBaltic",12:00 pm,6:40 pm,HEL,VIE,7h 40m,False,4h 30m,RIX,Riga Intl,$118,Kayak
+Lufthansa,7:00 am,12:15 pm,HEL,VIE,6h 15m,False,2h 30m,MUC,Munich Franz Josef Strauss,$190,Kayak
+Lufthansa,2:00 pm,7:30 pm,HEL,VIE,6h 30m,False,2h 20m,FRA,Frankfurt am Main,$190,Kayak
+"CitizenPlane, Ryanair",6:30 am,11:25 am,HEL,VIE,5h 55m,False,2h 25m,CPH,Kastrup Copenhagen,$163,Kayak
+Austrian Airlines,2:00 pm,7:30 pm,HEL,VIE,6h 30m,False,2h 20m,FRA,Frankfurt am Main,$192,Kayak
+"Finnair, Austrian Airlines",12:35 pm,5:35 pm,HEL,VIE,6h 00m,False,2h 45m,ARN,Stockholm Arlanda,$166,Kayak
+Multiple airlines,4:40 pm,9:50 pm,HEL,VIE,6h 10m,False,1h 25m,ARN,Stockholm Arlanda,$134,Kayak
+Austrian Airlines,7:05 am,11:45 am,HEL,VIE,5h 40m,False,1h 25m,FRA,Frankfurt am Main,$258,Kayak
+Lufthansa,7:05 am,11:45 am,HEL,VIE,5h 40m,False,1h 25m,FRA,Frankfurt am Main,$265,Kayak
+Scandinavian Airlines,1:30 pm,5:35 pm,HEL,VIE,5h 05m,False,1h 45m,ARN,Stockholm Arlanda,$360,Kayak
+Scandinavian Airlines,6:30 am,11:35 am,HEL,VIE,6h 05m,False,2h 35m,CPH,Kastrup Copenhagen,$250,Kayak
+"Scandinavian Airlines, Austrian Airlines",10:15 am,5:35 pm,HEL,VIE,8h 20m,False,5h 00m,ARN,Stockholm Arlanda,$170,Kayak
+Austrian Airlines,7:00 am,12:15 pm,HEL,VIE,6h 15m,False,2h 30m,MUC,Munich Franz Josef Strauss,$257,Kayak
+Scandinavian Airlines,7:25 am,12:05 pm,HEL,VIE,5h 40m,False,2h 15m,ARN,Stockholm Arlanda,$344,Kayak
+KLM,7:00 am,11:30 am,HEL,VIE,5h 30m,False,1h 00m,AMS,Amsterdam Schiphol,$329,Kayak
+Austrian Airlines,2:00 pm,9:05 pm,HEL,VIE,8h 05m,False,3h 50m,FRA,Frankfurt am Main,$190,Kayak
+Austrian Airlines,5:40 pm,11:15 pm,HEL,VIE,6h 35m,False,2h 20m,FRA,Frankfurt am Main,$258,Kayak
+Austrian Airlines,7:05 am,2:15 pm,HEL,VIE,8h 10m,False,3h 55m,FRA,Frankfurt am Main,$190,Kayak
+Multiple airlines,4:40 pm,10:40 pm,HEL,VIE,7h 00m,False,1h 50m,ARN,Stockholm Arlanda,$149,Kayak
+Lufthansa,2:00 pm,9:05 pm,HEL,VIE,8h 05m,False,3h 50m,FRA,Frankfurt am Main,$193,Kayak
+Austrian Airlines,6:30 am,11:35 am,HEL,VIE,6h 05m,False,2h 35m,CPH,Kastrup Copenhagen,$325,Kayak
+Lufthansa,7:05 am,2:15 pm,HEL,VIE,8h 10m,False,3h 55m,FRA,Frankfurt am Main,$193,Kayak
+"airBaltic, Austrian Airlines",5:20 am,10:25 am,HEL,VIE,6h 05m,False,0h 55m,RIX,Riga Intl,$210,Kayak
+Lufthansa,5:40 pm,11:15 pm,HEL,VIE,6h 35m,False,2h 20m,FRA,Frankfurt am Main,$266,Kayak
+Lufthansa,7:05 am,1:10 pm,HEL,VIE,7h 05m,False,2h 50m,FRA,Frankfurt am Main,$266,Kayak
+Multiple airlines,4:40 pm,11:15 pm,HEL,VIE,7h 35m,False,2h 10m,ARN,Stockholm Arlanda,$157,Kayak
+"Norwegian, Lufthansa",4:40 pm,10:40 pm,HEL,VIE,7h 00m,False,1h 50m,ARN,Stockholm Arlanda,$175,Kayak
+SWISS,6:30 am,12:00 pm,HEL,VIE,6h 30m,False,0h 45m,CPH,Kastrup Copenhagen,$244,Kayak
+Lufthansa,1:30 pm,6:45 pm,HEL,VIE,6h 15m,False,0h 35m,ARN,Stockholm Arlanda,$301,Kayak
+Multiple airlines,10:05 am,4:25 pm,HEL,VIE,7h 20m,False,1h 05m,ARN,Stockholm Arlanda,$197,Kayak
+"Scandinavian Airlines, Austrian Airlines",10:15 am,4:25 pm,HEL,VIE,7h 10m,False,1h 10m,ARN,Stockholm Arlanda,$205,Kayak
+KLM,1:55 pm,10:40 pm,HEL,VIE,9h 45m,False,5h 30m,AMS,Amsterdam Schiphol,$120,Kayak
+Austrian Airlines,7:05 am,1:10 pm,HEL,VIE,7h 05m,False,2h 50m,FRA,Frankfurt am Main,$258,Kayak
+KLM,10:40 am,4:10 pm,HEL,VIE,6h 30m,False,2h 10m,AMS,Amsterdam Schiphol,$292,Kayak
+Lufthansa,7:05 am,3:05 pm,HEL,VIE,9h 00m,False,4h 45m,FRA,Frankfurt am Main,$193,Kayak
+SWISS,6:30 am,2:05 pm,HEL,VIE,8h 35m,False,2h 25m,CPH,Kastrup Copenhagen,$212,Kayak
+Multiple airlines,1:35 pm,9:50 pm,HEL,VIE,9h 15m,False,4h 30m,ARN,Stockholm Arlanda,$142,Kayak
+Lufthansa,1:30 pm,7:30 pm,HEL,VIE,7h 00m,False,0h 35m,ARN,Stockholm Arlanda,$301,Kayak
+Scandinavian Airlines,10:15 am,5:35 pm,HEL,VIE,8h 20m,False,5h 00m,ARN,Stockholm Arlanda,$242,Kayak
+Lufthansa,4:25 pm,10:40 pm,HEL,VIE,7h 15m,False,1h 55m,ARN,Stockholm Arlanda,$294,Kayak
+Lufthansa,7:00 am,2:15 pm,HEL,VIE,8h 15m,False,1h 15m,MUC,Munich Franz Josef Strauss,$238,Kayak
+airBaltic,8:40 am,6:40 pm,HEL,VIE,11h 00m,False,8h 00m,RIX,Riga Intl,$84,Kayak
+"Scandinavian Airlines, Austrian Airlines",10:05 am,7:20 pm,HEL,VIE,10h 15m,False,6h 45m,CPH,Kastrup Copenhagen,$147,Kayak
+"Scandinavian Airlines, Austrian Airlines",10:05 am,5:35 pm,HEL,VIE,8h 30m,False,2h 20m,CPH,Kastrup Copenhagen,$164,Kayak
+Multiple airlines,2:10 pm,9:50 pm,HEL,VIE,8h 40m,False,3h 20m,OSL,Oslo Gardermoen,$142,Kayak
+Multiple airlines,2:10 pm,9:50 pm,HEL,VIE,8h 40m,False,2h 25m,OSL,Oslo Gardermoen,$144,Kayak
+Austrian Airlines,7:05 am,3:05 pm,HEL,VIE,9h 00m,False,4h 45m,FRA,Frankfurt am Main,$190,Kayak
+Turkish Airlines,12:25 pm,9:50 pm,HEL,VIE,10h 25m,False,4h 10m,IST,Istanbul,$146,Kayak
+Multiple airlines,2:10 pm,9:35 pm,HEL,VIE,8h 25m,False,1h 30m,OSL,Oslo Gardermoen,$158,Kayak
+SWISS,6:30 am,2:05 pm,HEL,VIE,8h 35m,False,0h 45m,CPH,Kastrup Copenhagen,$244,Kayak
+"airBaltic, Austrian Airlines",5:20 am,11:35 am,HEL,VIE,7h 15m,False,0h 50m,RIX,Riga Intl,$174,Kayak
+SWISS,1:30 pm,8:45 pm,HEL,VIE,8h 15m,False,2h 20m,ARN,Stockholm Arlanda,$275,Kayak
+Lufthansa,4:25 pm,11:15 pm,HEL,VIE,7h 50m,False,2h 15m,ARN,Stockholm Arlanda,$301,Kayak
+Lufthansa,10:05 am,6:45 pm,HEL,VIE,9h 40m,False,2h 30m,CPH,Kastrup Copenhagen,$207,Kayak
+Lufthansa,10:05 am,6:45 pm,HEL,VIE,9h 40m,False,3h 35m,CPH,Kastrup Copenhagen,$207,Kayak
+"airBaltic, Austrian Airlines",5:20 am,12:05 pm,HEL,VIE,7h 45m,False,0h 45m,RIX,Riga Intl,$160,Kayak
+Lufthansa,6:30 am,2:15 pm,HEL,VIE,8h 45m,False,2h 50m,CPH,Kastrup Copenhagen,$260,Kayak
+Lufthansa,10:05 am,5:40 pm,HEL,VIE,8h 35m,False,2h 30m,CPH,Kastrup Copenhagen,$269,Kayak
+Lufthansa,10:05 am,6:45 pm,HEL,VIE,9h 40m,False,2h 50m,CPH,Kastrup Copenhagen,$212,Kayak
+Lufthansa,2:00 pm,11:15 pm,HEL,VIE,10h 15m,False,6h 00m,FRA,Frankfurt am Main,$193,Kayak
+Lufthansa,10:15 am,6:45 pm,HEL,VIE,9h 30m,False,3h 50m,ARN,Stockholm Arlanda,$229,Kayak
+Lufthansa,7:00 am,3:05 pm,HEL,VIE,9h 05m,False,1h 15m,MUC,Munich Franz Josef Strauss,$254,Kayak
+Lufthansa,6:30 am,3:05 pm,HEL,VIE,9h 35m,False,2h 50m,CPH,Kastrup Copenhagen,$235,Kayak
+SWISS,10:05 am,7:10 pm,HEL,VIE,10h 05m,False,4h 00m,CPH,Kastrup Copenhagen,$212,Kayak
+"Finnair, Ryanair",1:35 pm,11:00 pm,HEL,VIE,10h 25m,False,3h 10m,ARN,Stockholm Arlanda,$114,Kayak
+"airBaltic, Austrian Airlines",8:40 am,5:35 pm,HEL,VIE,9h 55m,False,3h 05m,RIX,Riga Intl,$206,Kayak
+Scandinavian Airlines,1:15 pm,9:05 pm,HEL,VIE,8h 50m,False,1h 55m,OSL,Oslo Gardermoen,$285,Kayak
+Scandinavian Airlines,10:05 am,5:40 pm,HEL,VIE,8h 35m,False,2h 30m,CPH,Kastrup Copenhagen,$297,Kayak
+Austrian Airlines,2:00 pm,11:15 pm,HEL,VIE,10h 15m,False,6h 00m,FRA,Frankfurt am Main,$192,Kayak
+"airBaltic, Austrian Airlines",8:40 am,5:35 pm,HEL,VIE,9h 55m,False,3h 05m,RIX,Riga Intl,$210,Kayak
+Lufthansa,1:30 pm,9:05 pm,HEL,VIE,8h 35m,False,0h 35m,ARN,Stockholm Arlanda,$301,Kayak
+Lufthansa,10:05 am,7:30 pm,HEL,VIE,10h 25m,False,3h 35m,CPH,Kastrup Copenhagen,$207,Kayak
+Austrian Airlines,7:25 am,5:35 pm,HEL,VIE,11h 10m,False,7h 45m,ARN,Stockholm Arlanda,$179,Kayak
+"Scandinavian Airlines, Austrian Airlines",7:25 am,5:35 pm,HEL,VIE,11h 10m,False,7h 45m,ARN,Stockholm Arlanda,$149,Kayak
+Scandinavian Airlines,6:30 am,2:15 pm,HEL,VIE,8h 45m,False,2h 50m,CPH,Kastrup Copenhagen,$297,Kayak
+SWISS,10:15 am,7:10 pm,HEL,VIE,9h 55m,False,3h 10m,ARN,Stockholm Arlanda,$238,Kayak
+Lufthansa,10:05 am,7:30 pm,HEL,VIE,10h 25m,False,2h 30m,CPH,Kastrup Copenhagen,$212,Kayak
+Lufthansa,10:05 am,7:30 pm,HEL,VIE,10h 25m,False,2h 50m,CPH,Kastrup Copenhagen,$212,Kayak
+"Finnair, Brussels Airlines",10:05 am,5:25 pm,HEL,VIE,8h 20m,False,2h 15m,ARN,Stockholm Arlanda,$260,Kayak
+"Scandinavian Airlines, Brussels Airlines",10:15 am,5:25 pm,HEL,VIE,8h 10m,False,2h 20m,ARN,Stockholm Arlanda,$269,Kayak
+"airBaltic, Austrian Airlines",8:40 am,6:40 pm,HEL,VIE,11h 00m,False,8h 00m,RIX,Riga Intl,$182,Kayak
+Scandinavian Airlines,10:05 am,5:40 pm,HEL,VIE,8h 35m,False,2h 50m,CPH,Kastrup Copenhagen,$296,Kayak
+SWISS,1:30 pm,10:10 pm,HEL,VIE,9h 40m,False,2h 20m,ARN,Stockholm Arlanda,$275,Kayak
+British Airways,4:00 pm,10:00 pm,HEL,VIE,7h 00m,False,1h 40m,LHR,London Heathrow,$428,Kayak
+Scandinavian Airlines,10:05 am,7:20 pm,HEL,VIE,10h 15m,False,6h 45m,CPH,Kastrup Copenhagen,$254,Kayak
+SWISS,6:30 am,4:25 pm,HEL,VIE,10h 55m,False,2h 25m,CPH,Kastrup Copenhagen,$212,Kayak
+Scandinavian Airlines,10:15 am,6:45 pm,HEL,VIE,9h 30m,False,3h 50m,ARN,Stockholm Arlanda,$287,Kayak
+Lufthansa,2:00 pm,10:40 pm,HEL,VIE,9h 40m,False,1h 25m,FRA,Frankfurt am Main,$287,Kayak
+Lufthansa,2:00 pm,10:40 pm,HEL,VIE,9h 40m,False,2h 25m,FRA,Frankfurt am Main,$287,Kayak
+Lufthansa,10:15 am,7:30 pm,HEL,VIE,10h 15m,False,3h 50m,ARN,Stockholm Arlanda,$229,Kayak
+Scandinavian Airlines,6:30 am,3:05 pm,HEL,VIE,9h 35m,False,2h 50m,CPH,Kastrup Copenhagen,$295,Kayak
+"Finnair, Austrian Airlines",11:40 pm,8:50 am+1,HEL,VIE,10h 10m,False,6h 40m,ARN,Stockholm Arlanda,$148,Kayak
+Scandinavian Airlines,10:05 am,6:45 pm,HEL,VIE,9h 40m,False,2h 30m,CPH,Kastrup Copenhagen,$295,Kayak
+Brussels Airlines,7:05 am,4:40 pm,HEL,VIE,10h 35m,False,2h 35m,FRA,Frankfurt am Main,$224,Kayak
+"CitizenPlane, Ryanair",1:35 pm,11:00 pm,HEL,VIE,10h 25m,False,3h 10m,ARN,Stockholm Arlanda,$209,Kayak
+SWISS,6:30 am,4:25 pm,HEL,VIE,10h 55m,False,0h 45m,CPH,Kastrup Copenhagen,$244,Kayak
+Scandinavian Airlines,7:25 am,5:35 pm,HEL,VIE,11h 10m,False,7h 45m,ARN,Stockholm Arlanda,$246,Kayak
+Scandinavian Airlines,10:15 am,7:30 pm,HEL,VIE,10h 15m,False,3h 50m,ARN,Stockholm Arlanda,$287,Kayak
+Ryanair,10:45 am,11:00 pm,HEL,VIE,13h 15m,False,8h 35m,BGY,Bergamo Orio Al Serio,$83,Kayak
+Lufthansa,1:30 pm,10:40 pm,HEL,VIE,10h 10m,False,1h 35m,ARN,Stockholm Arlanda,$294,Kayak
+Lufthansa,1:30 pm,10:40 pm,HEL,VIE,10h 10m,False,4h 55m,ARN,Stockholm Arlanda,$294,Kayak
+British Airways,2:00 pm,10:00 pm,HEL,VIE,9h 00m,False,3h 25m,LHR,London Heathrow,$372,Kayak
+Scandinavian Airlines,10:05 am,6:45 pm,HEL,VIE,9h 40m,False,2h 50m,CPH,Kastrup Copenhagen,$295,Kayak
+Scandinavian Airlines,1:30 pm,6:45 pm,HEL,VIE,6h 15m,False,0h 35m,ARN,Stockholm Arlanda,$507,Kayak
+KLM,7:00 am,4:10 pm,HEL,VIE,10h 10m,False,5h 40m,AMS,Amsterdam Schiphol,$288,Kayak
+Austrian Airlines,12:45 pm,10:40 pm,HEL,VIE,10h 55m,False,7h 00m,MUC,Munich Franz Josef Strauss,$257,Kayak
+Lufthansa,12:45 pm,10:40 pm,HEL,VIE,10h 55m,False,7h 00m,MUC,Munich Franz Josef Strauss,$258,Kayak
+Scandinavian Airlines,1:15 pm,11:15 pm,HEL,VIE,11h 00m,False,1h 55m,OSL,Oslo Gardermoen,$283,Kayak
+Austrian Airlines,12:45 pm,4:45 pm,HEL,VIE,5h 00m,False,1h 05m,MUC,Munich Franz Josef Strauss,$583,Kayak
+"Finnair, Austrian Airlines",10:45 pm,8:45 am+1,HEL,VIE,11h 00m,False,7h 35m,CPH,Kastrup Copenhagen,$172,Kayak
+Scandinavian Airlines,1:30 pm,11:15 pm,HEL,VIE,10h 45m,False,0h 35m,ARN,Stockholm Arlanda,$305,Kayak
+CitizenPlane,11:45 am,6:55 pm,HEL,VIE,8h 10m,False,4h 40m,HAM,Hamburg,$415,Kayak
+Lufthansa,12:45 pm,4:45 pm,HEL,VIE,5h 00m,False,1h 05m,MUC,Munich Franz Josef Strauss,$589,Kayak
+Scandinavian Airlines,1:15 pm,11:15 pm,HEL,VIE,11h 00m,False,4h 40m,OSL,Oslo Gardermoen,$283,Kayak
+Brussels Airlines,7:05 am,4:40 pm,HEL,VIE,10h 35m,False,4h 05m,FRA,Frankfurt am Main,$310,Kayak
+"Finnair, airBaltic",11:50 pm,8:25 am+1,HEL,VIE,9h 35m,False,5h 05m,TLL,Tallinn Ulemiste,$252,Kayak
+Croatia Airlines,6:30 am,3:40 pm,HEL,VIE,10h 10m,False,4h 05m,CPH,Kastrup Copenhagen,$369,Kayak
+"Finnair, LOT",11:50 pm,8:45 am+1,HEL,VIE,9h 55m,False,5h 20m,TLL,Tallinn Ulemiste,$282,Kayak
+Austrian Airlines,12:45 pm,8:20 pm,HEL,VIE,8h 35m,False,4h 40m,MUC,Munich Franz Josef Strauss,$491,Kayak
+Lufthansa,12:45 pm,8:20 pm,HEL,VIE,8h 35m,False,4h 40m,MUC,Munich Franz Josef Strauss,$501,Kayak
+British Airways,7:50 am,5:50 pm,HEL,VIE,11h 00m,False,5h 20m,LHR,London Heathrow,$473,Kayak
+British Airways,7:50 am,1:25 pm,HEL,VIE,6h 35m,False,1h 00m,LHR,London Heathrow,$710,Kayak
+Lufthansa,7:00 am,4:45 pm,HEL,VIE,10h 45m,False,6h 55m,MUC,Munich Franz Josef Strauss,$501,Kayak
+British Airways,7:50 am,4:05 pm,HEL,VIE,9h 15m,False,3h 40m,LHR,London Heathrow,$627,Kayak
+Austrian Airlines,7:00 am,4:45 pm,HEL,VIE,10h 45m,False,6h 55m,MUC,Munich Franz Josef Strauss,$559,Kayak
+Multiple airlines,1:35 pm,6:10 am+1,HEL,VIE,17h 35m,False,1h 45m,ARN,Stockholm Arlanda,$230,Kayak
+Air France,5:40 pm,10:55 pm,HEL,VIE,6h 15m,False,1h 00m,CDG,Paris Charles de Gaulle,$162,Momondo
+"airBaltic, Ryanair",5:20 am,11:25 am,HEL,VIE,7h 05m,False,0h 50m,RIX,Riga Intl,$106,Momondo
+Undisclosed Carrier,3pm-4pm,3pm,HEL,VIE,4h 10m,False,,,,$204,Momondo
+Undisclosed Carrier,6pm-7pm,6pm,HEL,VIE,4h 30m,False,,,,$247,Momondo
+Scandinavian Airlines,6:20 pm,9:50 pm,HEL,VIE,4h 30m,False,1h 00m,CPH,Kastrup Copenhagen,$250,Momondo
+Austrian Airlines,2:00 pm,6:45 pm,HEL,VIE,5h 45m,False,1h 30m,FRA,Frankfurt am Main,$190,Momondo
+Lufthansa,2:00 pm,6:45 pm,HEL,VIE,5h 45m,False,1h 30m,FRA,Frankfurt am Main,$192,Momondo
+"Finnair, airBaltic",12:00 pm,6:40 pm,HEL,VIE,7h 40m,False,4h 30m,RIX,Riga Intl,$118,Momondo
+Austrian Airlines,1:30 pm,5:35 pm,HEL,VIE,5h 05m,False,1h 45m,ARN,Stockholm Arlanda,$233,Momondo
+Undisclosed Carrier,7am-8am,7am,HEL,VIE,5h 40m,False,,,,$212,Momondo
+Lufthansa,7:00 am,12:15 pm,HEL,VIE,6h 15m,False,2h 30m,MUC,Munich Franz Josef Strauss,$190,Momondo
+"CitizenPlane, Ryanair",6:30 am,11:25 am,HEL,VIE,5h 55m,False,2h 25m,CPH,Kastrup Copenhagen,$163,Momondo
+Lufthansa,2:00 pm,7:30 pm,HEL,VIE,6h 30m,False,2h 20m,FRA,Frankfurt am Main,$190,Momondo
+Undisclosed Carrier,1pm-2pm,1pm,HEL,VIE,5h 05m,False,,,,$274,Momondo
+Austrian Airlines,2:00 pm,7:30 pm,HEL,VIE,6h 30m,False,2h 20m,FRA,Frankfurt am Main,$192,Momondo
+Multiple airlines,4:40 pm,9:50 pm,HEL,VIE,6h 10m,False,1h 25m,ARN,Stockholm Arlanda,$134,Momondo
+"Finnair, Austrian Airlines",12:35 pm,5:35 pm,HEL,VIE,6h 00m,False,2h 45m,ARN,Stockholm Arlanda,$166,Momondo
+"Finnair, Austrian Airlines",5:50 pm,9:50 pm,HEL,VIE,5h 00m,False,1h 30m,CPH,Kastrup Copenhagen,$207,Momondo
+Austrian Airlines,7:05 am,11:45 am,HEL,VIE,5h 40m,False,1h 25m,FRA,Frankfurt am Main,$258,Momondo
+Scandinavian Airlines,1:30 pm,5:35 pm,HEL,VIE,5h 05m,False,1h 45m,ARN,Stockholm Arlanda,$360,Momondo
+Lufthansa,7:05 am,11:45 am,HEL,VIE,5h 40m,False,1h 25m,FRA,Frankfurt am Main,$265,Momondo
+"Scandinavian Airlines, Austrian Airlines",10:15 am,5:35 pm,HEL,VIE,8h 20m,False,5h 00m,ARN,Stockholm Arlanda,$170,Momondo
+Scandinavian Airlines,6:30 am,11:35 am,HEL,VIE,6h 05m,False,2h 35m,CPH,Kastrup Copenhagen,$250,Momondo
+Austrian Airlines,7:00 am,12:15 pm,HEL,VIE,6h 15m,False,2h 30m,MUC,Munich Franz Josef Strauss,$257,Momondo
+Austrian Airlines,7:05 am,2:15 pm,HEL,VIE,8h 10m,False,3h 55m,FRA,Frankfurt am Main,$190,Momondo
+Multiple airlines,4:40 pm,10:40 pm,HEL,VIE,7h 00m,False,1h 50m,ARN,Stockholm Arlanda,$149,Momondo
+Lufthansa,7:05 am,2:15 pm,HEL,VIE,8h 10m,False,3h 55m,FRA,Frankfurt am Main,$193,Momondo
+Austrian Airlines,5:40 pm,11:15 pm,HEL,VIE,6h 35m,False,2h 20m,FRA,Frankfurt am Main,$258,Momondo
+Lufthansa,5:40 pm,11:15 pm,HEL,VIE,6h 35m,False,2h 20m,FRA,Frankfurt am Main,$266,Momondo
+"airBaltic, Austrian Airlines",5:20 am,10:25 am,HEL,VIE,6h 05m,False,0h 55m,RIX,Riga Intl,$210,Momondo
+Austrian Airlines,7:05 am,1:10 pm,HEL,VIE,7h 05m,False,2h 50m,FRA,Frankfurt am Main,$258,Momondo
+Multiple airlines,4:40 pm,11:15 pm,HEL,VIE,7h 35m,False,2h 10m,ARN,Stockholm Arlanda,$157,Momondo
+"Norwegian, Lufthansa",4:40 pm,10:40 pm,HEL,VIE,7h 00m,False,1h 50m,ARN,Stockholm Arlanda,$175,Momondo
+Lufthansa,1:30 pm,6:45 pm,HEL,VIE,6h 15m,False,0h 35m,ARN,Stockholm Arlanda,$301,Momondo
+SWISS,6:30 am,12:00 pm,HEL,VIE,6h 30m,False,0h 45m,CPH,Kastrup Copenhagen,$285,Momondo
+Lufthansa,7:05 am,1:10 pm,HEL,VIE,7h 05m,False,2h 50m,FRA,Frankfurt am Main,$266,Momondo
+Scandinavian Airlines,7:25 am,12:05 pm,HEL,VIE,5h 40m,False,2h 15m,ARN,Stockholm Arlanda,$344,Momondo
+Austrian Airlines,2:00 pm,9:05 pm,HEL,VIE,8h 05m,False,3h 50m,FRA,Frankfurt am Main,$190,Momondo
+Austrian Airlines,6:30 am,11:35 am,HEL,VIE,6h 05m,False,2h 35m,CPH,Kastrup Copenhagen,$325,Momondo
+KLM,7:00 am,11:30 am,HEL,VIE,5h 30m,False,1h 00m,AMS,Amsterdam Schiphol,$329,Momondo
+Undisclosed Carrier,7am-8am,7am,HEL,VIE,5h 40m,False,,,,$331,Momondo
+Lufthansa,2:00 pm,9:05 pm,HEL,VIE,8h 05m,False,3h 50m,FRA,Frankfurt am Main,$197,Momondo
+"Scandinavian Airlines, Austrian Airlines",10:05 am,5:35 pm,HEL,VIE,8h 30m,False,2h 20m,CPH,Kastrup Copenhagen,$162,Momondo
+"Scandinavian Airlines, Austrian Airlines",10:15 am,4:25 pm,HEL,VIE,7h 10m,False,1h 10m,ARN,Stockholm Arlanda,$205,Momondo
+Multiple airlines,10:05 am,4:25 pm,HEL,VIE,7h 20m,False,1h 05m,ARN,Stockholm Arlanda,$197,Momondo
+Multiple airlines,2:10 pm,9:50 pm,HEL,VIE,8h 40m,False,3h 20m,OSL,Oslo Gardermoen,$142,Momondo
+KLM,1:55 pm,10:40 pm,HEL,VIE,9h 45m,False,5h 30m,AMS,Amsterdam Schiphol,$120,Momondo
+Multiple airlines,2:10 pm,9:50 pm,HEL,VIE,8h 40m,False,2h 25m,OSL,Oslo Gardermoen,$144,Momondo
+Austrian Airlines,7:05 am,3:05 pm,HEL,VIE,9h 00m,False,4h 45m,FRA,Frankfurt am Main,$190,Momondo
+Multiple airlines,2:10 pm,9:35 pm,HEL,VIE,8h 25m,False,1h 30m,OSL,Oslo Gardermoen,$158,Momondo
+Multiple airlines,1:35 pm,9:50 pm,HEL,VIE,9h 15m,False,4h 30m,ARN,Stockholm Arlanda,$142,Momondo
+Undisclosed Carrier,5am-6am,5am,HEL,VIE,6h 05m,False,,,,$230,Momondo
+Lufthansa,1:30 pm,7:30 pm,HEL,VIE,7h 00m,False,0h 35m,ARN,Stockholm Arlanda,$301,Momondo
+Scandinavian Airlines,10:15 am,5:35 pm,HEL,VIE,8h 20m,False,5h 00m,ARN,Stockholm Arlanda,$242,Momondo
+Lufthansa,4:25 pm,10:40 pm,HEL,VIE,7h 15m,False,1h 55m,ARN,Stockholm Arlanda,$294,Momondo
+Lufthansa,7:00 am,2:15 pm,HEL,VIE,8h 15m,False,1h 15m,MUC,Munich Franz Josef Strauss,$238,Momondo
+"airBaltic, Austrian Airlines",5:20 am,11:35 am,HEL,VIE,7h 15m,False,0h 50m,RIX,Riga Intl,$174,Momondo
+airBaltic,8:40 am,6:40 pm,HEL,VIE,11h 00m,False,8h 00m,RIX,Riga Intl,$84,Momondo
+"Scandinavian Airlines, Austrian Airlines",10:05 am,7:20 pm,HEL,VIE,10h 15m,False,6h 45m,CPH,Kastrup Copenhagen,$147,Momondo
+SWISS,6:30 am,2:05 pm,HEL,VIE,8h 35m,False,2h 25m,CPH,Kastrup Copenhagen,$229,Momondo
+"airBaltic, Austrian Airlines",5:20 am,12:05 pm,HEL,VIE,7h 45m,False,0h 45m,RIX,Riga Intl,$160,Momondo
+Turkish Airlines,12:25 pm,9:50 pm,HEL,VIE,10h 25m,False,4h 10m,IST,Istanbul,$146,Momondo
+KLM,10:40 am,4:10 pm,HEL,VIE,6h 30m,False,2h 10m,AMS,Amsterdam Schiphol,$292,Momondo
+Undisclosed Carrier,6am-7am,6am,HEL,VIE,6h 05m,False,,,,$367,Momondo
+Lufthansa,7:05 am,3:05 pm,HEL,VIE,9h 00m,False,4h 45m,FRA,Frankfurt am Main,$243,Momondo
+Lufthansa,4:25 pm,11:15 pm,HEL,VIE,7h 50m,False,2h 15m,ARN,Stockholm Arlanda,$301,Momondo
+Lufthansa,10:05 am,6:45 pm,HEL,VIE,9h 40m,False,3h 35m,CPH,Kastrup Copenhagen,$207,Momondo
+Lufthansa,10:05 am,6:45 pm,HEL,VIE,9h 40m,False,2h 30m,CPH,Kastrup Copenhagen,$207,Momondo
+Lufthansa,6:30 am,2:15 pm,HEL,VIE,8h 45m,False,2h 50m,CPH,Kastrup Copenhagen,$260,Momondo
+Lufthansa,10:05 am,5:40 pm,HEL,VIE,8h 35m,False,2h 30m,CPH,Kastrup Copenhagen,$269,Momondo
+Austrian Airlines,2:00 pm,11:15 pm,HEL,VIE,10h 15m,False,6h 00m,FRA,Frankfurt am Main,$192,Momondo
+Lufthansa,10:05 am,6:45 pm,HEL,VIE,9h 40m,False,2h 50m,CPH,Kastrup Copenhagen,$212,Momondo
+SWISS,1:30 pm,8:45 pm,HEL,VIE,8h 15m,False,2h 20m,ARN,Stockholm Arlanda,$295,Momondo
+Lufthansa,10:15 am,6:45 pm,HEL,VIE,9h 30m,False,3h 50m,ARN,Stockholm Arlanda,$229,Momondo
+"Scandinavian Airlines, Austrian Airlines",7:25 am,5:35 pm,HEL,VIE,11h 10m,False,7h 45m,ARN,Stockholm Arlanda,$149,Momondo
+Lufthansa,7:00 am,3:05 pm,HEL,VIE,9h 05m,False,1h 15m,MUC,Munich Franz Josef Strauss,$254,Momondo
+Lufthansa,6:30 am,3:05 pm,HEL,VIE,9h 35m,False,2h 50m,CPH,Kastrup Copenhagen,$235,Momondo
+Undisclosed Carrier,10am-11am,10am,HEL,VIE,10h 15m,False,,,,$163,Momondo
+Scandinavian Airlines,10:05 am,5:40 pm,HEL,VIE,8h 35m,False,2h 50m,CPH,Kastrup Copenhagen,$296,Momondo
+"Finnair, Ryanair",1:35 pm,11:00 pm,HEL,VIE,10h 25m,False,3h 10m,ARN,Stockholm Arlanda,$114,Momondo
+"airBaltic, Austrian Airlines",8:40 am,5:35 pm,HEL,VIE,9h 55m,False,3h 05m,RIX,Riga Intl,$206,Momondo
+Scandinavian Airlines,1:15 pm,9:05 pm,HEL,VIE,8h 50m,False,1h 55m,OSL,Oslo Gardermoen,$285,Momondo
+Scandinavian Airlines,10:05 am,5:40 pm,HEL,VIE,8h 35m,False,2h 30m,CPH,Kastrup Copenhagen,$297,Momondo
+Lufthansa,1:30 pm,9:05 pm,HEL,VIE,8h 35m,False,0h 35m,ARN,Stockholm Arlanda,$301,Momondo
+Lufthansa,1:30 pm,9:05 pm,HEL,VIE,8h 35m,False,2h 45m,ARN,Stockholm Arlanda,$301,Momondo
+"airBaltic, Austrian Airlines",8:40 am,5:35 pm,HEL,VIE,9h 55m,False,3h 05m,RIX,Riga Intl,$210,Momondo
+Lufthansa,10:05 am,7:30 pm,HEL,VIE,10h 25m,False,3h 35m,CPH,Kastrup Copenhagen,$207,Momondo
+Scandinavian Airlines,6:30 am,2:15 pm,HEL,VIE,8h 45m,False,2h 50m,CPH,Kastrup Copenhagen,$297,Momondo
+Austrian Airlines,7:25 am,5:35 pm,HEL,VIE,11h 10m,False,7h 45m,ARN,Stockholm Arlanda,$179,Momondo
+SWISS,10:05 am,7:10 pm,HEL,VIE,10h 05m,False,4h 00m,CPH,Kastrup Copenhagen,$229,Momondo
+Lufthansa,10:05 am,7:30 pm,HEL,VIE,10h 25m,False,2h 50m,CPH,Kastrup Copenhagen,$212,Momondo
+Lufthansa,10:05 am,7:30 pm,HEL,VIE,10h 25m,False,2h 30m,CPH,Kastrup Copenhagen,$212,Momondo
+"Finnair, Brussels Airlines",10:05 am,5:25 pm,HEL,VIE,8h 20m,False,2h 15m,ARN,Stockholm Arlanda,$260,Momondo
+"Scandinavian Airlines, Brussels Airlines",10:15 am,5:25 pm,HEL,VIE,8h 10m,False,2h 20m,ARN,Stockholm Arlanda,$269,Momondo
+Lufthansa,10:15 am,7:30 pm,HEL,VIE,10h 15m,False,3h 50m,ARN,Stockholm Arlanda,$229,Momondo
+Lufthansa,2:00 pm,11:15 pm,HEL,VIE,10h 15m,False,6h 00m,FRA,Frankfurt am Main,$243,Momondo
+"airBaltic, Austrian Airlines",8:40 am,6:40 pm,HEL,VIE,11h 00m,False,8h 00m,RIX,Riga Intl,$182,Momondo
+SWISS,10:15 am,7:10 pm,HEL,VIE,9h 55m,False,3h 10m,ARN,Stockholm Arlanda,$256,Momondo
+British Airways,4:00 pm,10:00 pm,HEL,VIE,7h 00m,False,1h 40m,LHR,London Heathrow,$430,Momondo
+Scandinavian Airlines,10:05 am,7:20 pm,HEL,VIE,10h 15m,False,6h 45m,CPH,Kastrup Copenhagen,$254,Momondo
+Scandinavian Airlines,10:15 am,6:45 pm,HEL,VIE,9h 30m,False,3h 50m,ARN,Stockholm Arlanda,$287,Momondo
+Lufthansa,2:00 pm,10:40 pm,HEL,VIE,9h 40m,False,1h 25m,FRA,Frankfurt am Main,$287,Momondo
+Scandinavian Airlines,6:30 am,3:05 pm,HEL,VIE,9h 35m,False,2h 50m,CPH,Kastrup Copenhagen,$295,Momondo
+"Finnair, Austrian Airlines",11:40 pm,8:50 am+1,HEL,VIE,10h 10m,False,6h 40m,ARN,Stockholm Arlanda,$148,Momondo
+SWISS,1:30 pm,10:10 pm,HEL,VIE,9h 40m,False,2h 20m,ARN,Stockholm Arlanda,$295,Momondo
+Scandinavian Airlines,10:05 am,6:45 pm,HEL,VIE,9h 40m,False,2h 30m,CPH,Kastrup Copenhagen,$295,Momondo
+Scandinavian Airlines,10:05 am,6:45 pm,HEL,VIE,9h 40m,False,2h 50m,CPH,Kastrup Copenhagen,$295,Momondo
+Undisclosed Carrier,8am-9am,8am,HEL,VIE,9h 55m,False,,,,$226,Momondo
+SWISS,6:30 am,4:25 pm,HEL,VIE,10h 55m,False,2h 25m,CPH,Kastrup Copenhagen,$229,Momondo
+Brussels Airlines,7:05 am,4:40 pm,HEL,VIE,10h 35m,False,2h 35m,FRA,Frankfurt am Main,$224,Momondo
+"CitizenPlane, Ryanair",1:35 pm,11:00 pm,HEL,VIE,10h 25m,False,3h 10m,ARN,Stockholm Arlanda,$209,Momondo
+Scandinavian Airlines,10:05 am,6:45 pm,HEL,VIE,9h 40m,False,3h 35m,CPH,Kastrup Copenhagen,$314,Momondo
+Austrian Airlines,12:45 pm,10:40 pm,HEL,VIE,10h 55m,False,7h 00m,MUC,Munich Franz Josef Strauss,$257,Momondo
+Lufthansa,2:00 pm,10:40 pm,HEL,VIE,9h 40m,False,2h 25m,FRA,Frankfurt am Main,$287,Momondo
+Scandinavian Airlines,7:25 am,5:35 pm,HEL,VIE,11h 10m,False,7h 45m,ARN,Stockholm Arlanda,$246,Momondo
+Scandinavian Airlines,10:15 am,7:30 pm,HEL,VIE,10h 15m,False,3h 50m,ARN,Stockholm Arlanda,$287,Momondo
+Lufthansa,1:30 pm,10:40 pm,HEL,VIE,10h 10m,False,4h 55m,ARN,Stockholm Arlanda,$294,Momondo
+Lufthansa,1:30 pm,10:40 pm,HEL,VIE,10h 10m,False,1h 35m,ARN,Stockholm Arlanda,$294,Momondo
+Ryanair,10:45 am,11:00 pm,HEL,VIE,13h 15m,False,8h 35m,BGY,Bergamo Orio Al Serio,$83,Momondo
+Scandinavian Airlines,1:30 pm,6:45 pm,HEL,VIE,6h 15m,False,0h 35m,ARN,Stockholm Arlanda,$507,Momondo
+British Airways,2:00 pm,10:00 pm,HEL,VIE,9h 00m,False,3h 25m,LHR,London Heathrow,$374,Momondo
+KLM,7:00 am,4:10 pm,HEL,VIE,10h 10m,False,5h 40m,AMS,Amsterdam Schiphol,$288,Momondo
+Austrian Airlines,12:45 pm,4:45 pm,HEL,VIE,5h 00m,False,1h 05m,MUC,Munich Franz Josef Strauss,$583,Momondo
+Scandinavian Airlines,1:15 pm,11:15 pm,HEL,VIE,11h 00m,False,4h 40m,OSL,Oslo Gardermoen,$283,Momondo
+Scandinavian Airlines,1:15 pm,11:15 pm,HEL,VIE,11h 00m,False,1h 55m,OSL,Oslo Gardermoen,$283,Momondo
+Scandinavian Airlines,10:05 am,7:30 pm,HEL,VIE,10h 25m,False,2h 30m,CPH,Kastrup Copenhagen,$314,Momondo
+Scandinavian Airlines,10:05 am,7:30 pm,HEL,VIE,10h 25m,False,2h 50m,CPH,Kastrup Copenhagen,$314,Momondo
+Lufthansa,1:30 pm,11:15 pm,HEL,VIE,10h 45m,False,5h 15m,ARN,Stockholm Arlanda,$301,Momondo
+Lufthansa,1:30 pm,11:15 pm,HEL,VIE,10h 45m,False,2h 45m,ARN,Stockholm Arlanda,$301,Momondo
+Lufthansa,1:30 pm,11:15 pm,HEL,VIE,10h 45m,False,0h 35m,ARN,Stockholm Arlanda,$301,Momondo
+Lufthansa,12:45 pm,4:45 pm,HEL,VIE,5h 00m,False,1h 05m,MUC,Munich Franz Josef Strauss,$589,Momondo
+"Finnair, Austrian Airlines",10:45 pm,8:45 am+1,HEL,VIE,11h 00m,False,7h 35m,CPH,Kastrup Copenhagen,$172,Momondo
+Scandinavian Airlines,1:30 pm,11:15 pm,HEL,VIE,10h 45m,False,0h 35m,ARN,Stockholm Arlanda,$305,Momondo
+CitizenPlane,11:45 am,6:55 pm,HEL,VIE,8h 10m,False,4h 40m,HAM,Hamburg,$415,Momondo
+Lufthansa,12:45 pm,10:40 pm,HEL,VIE,10h 55m,False,7h 00m,MUC,Munich Franz Josef Strauss,$311,Momondo
+Brussels Airlines,7:05 am,4:40 pm,HEL,VIE,10h 35m,False,4h 05m,FRA,Frankfurt am Main,$310,Momondo
+Croatia Airlines,6:30 am,3:40 pm,HEL,VIE,10h 10m,False,4h 05m,CPH,Kastrup Copenhagen,$369,Momondo
+Scandinavian Airlines,4:25 pm,11:15 pm,HEL,VIE,7h 50m,False,2h 15m,ARN,Stockholm Arlanda,$511,Momondo
+Austrian Airlines,12:45 pm,8:20 pm,HEL,VIE,8h 35m,False,4h 40m,MUC,Munich Franz Josef Strauss,$491,Momondo
+Lufthansa,12:45 pm,8:20 pm,HEL,VIE,8h 35m,False,4h 40m,MUC,Munich Franz Josef Strauss,$501,Momondo
+Undisclosed Carrier,7am-8am,7am,HEL,VIE,10h 35m,False,,,,$376,Momondo
+British Airways,7:50 am,5:50 pm,HEL,VIE,11h 00m,False,5h 20m,LHR,London Heathrow,$473,Momondo
+British Airways,7:50 am,1:25 pm,HEL,VIE,6h 35m,False,1h 00m,LHR,London Heathrow,$712,Momondo
+Lufthansa,7:00 am,4:45 pm,HEL,VIE,10h 45m,False,6h 55m,MUC,Munich Franz Josef Strauss,$501,Momondo
+British Airways,7:50 am,4:05 pm,HEL,VIE,9h 15m,False,3h 40m,LHR,London Heathrow,$627,Momondo
+Austrian Airlines,7:00 am,4:45 pm,HEL,VIE,10h 45m,False,6h 55m,MUC,Munich Franz Josef Strauss,$559,Momondo
+Multiple airlines,1:35 pm,6:10 am+1,HEL,VIE,17h 35m,False,1h 45m,ARN,Stockholm Arlanda,$229,Momondo
+"CitizenPlane, Regiojet",5:35 pm,10:21 am+1,HEL,VIE,17h 46m,False,11h 22m,PRG,Václav Havel Prague,$259,Momondo
+Multiple airlines,7:25 am,5:30 pm,HEL,VIE,11h 05m,False,2h 00m,ARN,Stockholm Arlanda,$742,Momondo
+Multiple airlines,7:35 am,5:30 pm,HEL,VIE,10h 55m,False,1h 50m,ARN,Stockholm Arlanda,$761,Momondo
+Finnair,9:25 ,10:55 ,HEL,VIE,2h 30m,True,,,,$119 ,Booking.com
+airBaltic,3:30 ,6:40 ,HEL,VIE,4h 10m,False,1h 10m ,RIX,Riga Intl,$83 ,Booking.com
+Finnair,5:00 ,6:30 ,HEL,VIE,2h 30m,True,,,,$141 ,Booking.com
+airBaltic,5:20 ,8:25 ,HEL,VIE,4h 05m,False,1h 05m ,RIX,Riga Intl,$103 ,Booking.com
+KLM,6:10 ,10:40 ,HEL,VIE,5h 30m,False,1h 10m ,AMS,Amsterdam Schiphol,$120 ,Booking.com
+Ryanair,10:45 ,6:25 ,HEL,VIE,8h 40m,False,4h ,BGY,Bergamo Orio Al Serio,$83 ,Booking.com
+Multiple Airlines,3:30 ,6:40 ,HEL,VIE,4h 10m,False,1h 10m ,RIX,Riga Intl,$182 ,Booking.com
+Multiple Airlines,6:30 ,11:25 ,HEL,VIE,5h 55m,False,2h 25m ,CPH,Kastrup Copenhagen,$114 ,Booking.com
+Austrian Airlines,6:20 ,9:50 ,HEL,VIE,4h 30m,False,1h ,CPH,Kastrup Copenhagen,$192 ,Booking.com
+Multiple Airlines,5:20 ,8:25 ,HEL,VIE,4h 05m,False,1h 05m ,RIX,Riga Intl,$216 ,Booking.com
+Multiple Airlines,7:40 ,12:05 ,HEL,VIE,5h 25m,False,2h ,ARN,Stockholm Arlanda,$135 ,Booking.com
+Multiple Airlines,1:35 ,5:35 ,HEL,VIE,5h 00m,False,1h 45m ,ARN,Stockholm Arlanda,$148 ,Booking.com
+Multiple Airlines,6:20 ,9:50 ,HEL,VIE,4h 30m,False,1h ,CPH,Kastrup Copenhagen,$173 ,Booking.com
+Multiple Airlines,5:20 ,11:25 ,HEL,VIE,7h 05m,False,50m ,RIX,Riga Intl,$106 ,Booking.com
+Austrian Airlines,7:25 ,12:05 ,HEL,VIE,5h 40m,False,2h 15m ,ARN,Stockholm Arlanda,$176 ,Booking.com
+Air France,5:40 ,10:55 ,HEL,VIE,6h 15m,False,1h ,CDG,Paris Charles de Gaulle,$162 ,Booking.com
+Scandinavian Airlines,6:20 ,9:50 ,HEL,VIE,4h 30m,False,1h ,CPH,Kastrup Copenhagen,$250 ,Booking.com
+Austrian Airlines,2:00 ,6:45 ,HEL,VIE,5h 45m,False,1h 30m ,FRA,Frankfurt am Main,$190 ,Booking.com
+Lufthansa,2:00 ,6:45 ,HEL,VIE,5h 45m,False,1h 30m ,FRA,Frankfurt am Main,$192 ,Booking.com
+Multiple Airlines,12:00 ,6:40 ,HEL,VIE,7h 40m,False,4h 30m ,RIX,Riga Intl,$118 ,Booking.com
+Austrian Airlines,1:30 ,5:35 ,HEL,VIE,5h 05m,False,1h 45m ,ARN,Stockholm Arlanda,$233 ,Booking.com
+Multiple Airlines,4:40 ,9:50 ,HEL,VIE,6h 10m,False,1h 25m ,ARN,Stockholm Arlanda,$134 ,Booking.com
+Lufthansa,7:00 ,12:15 ,HEL,VIE,6h 15m,False,2h 30m ,MUC,Munich Franz Josef Strauss,$190 ,Booking.com
+Multiple Airlines,6:30 ,11:25 ,HEL,VIE,5h 55m,False,2h 25m ,CPH,Kastrup Copenhagen,$163 ,Booking.com
+Lufthansa,2:00 ,7:30 ,HEL,VIE,6h 30m,False,2h 20m ,FRA,Frankfurt am Main,$190 ,Booking.com
+Multiple Airlines,5:50 ,9:50 ,HEL,VIE,5h 00m,False,1h 30m ,CPH,Kastrup Copenhagen,$207 ,Booking.com
+Austrian Airlines,2:00 ,7:30 ,HEL,VIE,6h 30m,False,2h 20m ,FRA,Frankfurt am Main,$192 ,Booking.com
+Multiple Airlines,12:35 ,5:35 ,HEL,VIE,6h 00m,False,2h 45m ,ARN,Stockholm Arlanda,$166 ,Booking.com
+Austrian Airlines,7:05 ,11:45 ,HEL,VIE,5h 40m,False,1h 25m ,FRA,Frankfurt am Main,$258 ,Booking.com
+Lufthansa,7:05 ,11:45 ,HEL,VIE,5h 40m,False,1h 25m ,FRA,Frankfurt am Main,$265 ,Booking.com
+Multiple Airlines,7:25 ,12:05 ,HEL,VIE,5h 40m,False,2h 15m ,ARN,Stockholm Arlanda,$202 ,Booking.com
+Scandinavian Airlines,1:30 ,5:35 ,HEL,VIE,5h 05m,False,1h 45m ,ARN,Stockholm Arlanda,$360 ,Booking.com
+Multiple Airlines,10:15 ,5:35 ,HEL,VIE,8h 20m,False,5h ,ARN,Stockholm Arlanda,$170 ,Booking.com
+Multiple Airlines,4:40 ,10:40 ,HEL,VIE,7h 00m,False,1h 50m ,ARN,Stockholm Arlanda,$149 ,Booking.com
+Scandinavian Airlines,6:30 ,11:35 ,HEL,VIE,6h 05m,False,2h 35m ,CPH,Kastrup Copenhagen,$250 ,Booking.com
+Multiple Airlines,7:35 ,12:05 ,HEL,VIE,5h 30m,False,2h 05m ,ARN,Stockholm Arlanda,$223 ,Booking.com
+Multiple Airlines,7:15 ,11:25 ,HEL,VIE,5h 10m,False,1h 40m ,CPH,Kastrup Copenhagen,$247 ,Booking.com
+Multiple Airlines,5:20 ,10:25 ,HEL,VIE,6h 05m,False,55m ,RIX,Riga Intl,$210 ,Booking.com
+Austrian Airlines,7:00 ,12:15 ,HEL,VIE,6h 15m,False,2h 30m ,MUC,Munich Franz Josef Strauss,$257 ,Booking.com
+Austrian Airlines,2:00 ,9:05 ,HEL,VIE,8h 05m,False,3h 50m ,FRA,Frankfurt am Main,$190 ,Booking.com
+Austrian Airlines,7:05 ,2:15 ,HEL,VIE,8h 10m,False,3h 55m ,FRA,Frankfurt am Main,$190 ,Booking.com
+Multiple Airlines,6:30 ,11:35 ,HEL,VIE,6h 05m,False,2h 35m ,CPH,Kastrup Copenhagen,$209 ,Booking.com
+Austrian Airlines,5:40 ,11:15 ,HEL,VIE,6h 35m,False,2h 20m ,FRA,Frankfurt am Main,$258 ,Booking.com
+Multiple Airlines,4:40 ,11:15 ,HEL,VIE,7h 35m,False,2h 10m ,ARN,Stockholm Arlanda,$157 ,Booking.com
+Multiple Airlines,4:40 ,10:40 ,HEL,VIE,7h 00m,False,1h 50m ,ARN,Stockholm Arlanda,$175 ,Booking.com
+SWISS,6:30 ,12:00 ,HEL,VIE,6h 30m,False,45m ,CPH,Kastrup Copenhagen,$244 ,Booking.com
+Multiple Airlines,10:05 ,5:35 ,HEL,VIE,8h 30m,False,2h 20m ,CPH,Kastrup Copenhagen,$162 ,Booking.com
+Lufthansa,1:30 ,6:45 ,HEL,VIE,6h 15m,False,35m ,ARN,Stockholm Arlanda,$301 ,Booking.com
+Multiple Airlines,10:05 ,4:25 ,HEL,VIE,7h 20m,False,1h 05m ,ARN,Stockholm Arlanda,$197 ,Booking.com
+Multiple Airlines,10:15 ,4:25 ,HEL,VIE,7h 10m,False,1h 10m ,ARN,Stockholm Arlanda,$205 ,Booking.com
+Lufthansa,2:00 ,9:05 ,HEL,VIE,8h 05m,False,3h 50m ,FRA,Frankfurt am Main,$197 ,Booking.com
+KLM,1:55 ,10:40 ,HEL,VIE,9h 45m,False,5h 30m ,AMS,Amsterdam Schiphol,$120 ,Booking.com
+Multiple Airlines,2:10 ,9:50 ,HEL,VIE,8h 40m,False,3h 20m ,OSL,Oslo Gardermoen,$142 ,Booking.com
+Scandinavian Airlines,7:25 ,12:05 ,HEL,VIE,5h 40m,False,2h 15m ,ARN,Stockholm Arlanda,$344 ,Booking.com
+Multiple Airlines,2:10 ,9:50 ,HEL,VIE,8h 40m,False,2h 25m ,OSL,Oslo Gardermoen,$144 ,Booking.com
+Austrian Airlines,6:30 ,11:35 ,HEL,VIE,6h 05m,False,2h 35m ,CPH,Kastrup Copenhagen,$325 ,Booking.com
+Lufthansa,7:05 ,2:15 ,HEL,VIE,8h 10m,False,3h 55m ,FRA,Frankfurt am Main,$197 ,Booking.com
+Multiple Airlines,2:10 ,9:35 ,HEL,VIE,8h 25m,False,1h 30m ,OSL,Oslo Gardermoen,$158 ,Booking.com
+KLM,7:00 ,11:30 ,HEL,VIE,5h 30m,False,1h ,AMS,Amsterdam Schiphol,$329 ,Booking.com
+Multiple Airlines,1:35 ,9:50 ,HEL,VIE,9h 15m,False,4h 30m ,ARN,Stockholm Arlanda,$142 ,Booking.com
+airBaltic,8:40 ,6:40 ,HEL,VIE,11h 00m,False,8h ,RIX,Riga Intl,$84 ,Booking.com
+Austrian Airlines,7:05 ,1:10 ,HEL,VIE,7h 05m,False,2h 50m ,FRA,Frankfurt am Main,$258 ,Booking.com
+SWISS,6:30 ,2:05 ,HEL,VIE,8h 35m,False,2h 25m ,CPH,Kastrup Copenhagen,$212 ,Booking.com
+KLM,10:40 ,4:10 ,HEL,VIE,6h 30m,False,2h 10m ,AMS,Amsterdam Schiphol,$292 ,Booking.com
+Lufthansa,7:05 ,1:10 ,HEL,VIE,7h 05m,False,2h 50m ,FRA,Frankfurt am Main,$266 ,Booking.com
+Multiple Airlines,10:05 ,7:20 ,HEL,VIE,10h 15m,False,6h 45m ,CPH,Kastrup Copenhagen,$147 ,Booking.com
+Scandinavian Airlines,10:15 ,5:35 ,HEL,VIE,8h 20m,False,5h ,ARN,Stockholm Arlanda,$242 ,Booking.com
+Turkish Airlines,12:25 ,9:50 ,HEL,VIE,10h 25m,False,4h 10m ,IST,Istanbul,$146 ,Booking.com
+Lufthansa,1:30 ,7:30 ,HEL,VIE,7h 00m,False,35m ,ARN,Stockholm Arlanda,$301 ,Booking.com
+Multiple Airlines,5:20 ,11:35 ,HEL,VIE,7h 15m,False,50m ,RIX,Riga Intl,$174 ,Booking.com
+Lufthansa,4:25 ,10:40 ,HEL,VIE,7h 15m,False,1h 55m ,ARN,Stockholm Arlanda,$294 ,Booking.com
+Austrian Airlines,7:05 ,3:05 ,HEL,VIE,9h 00m,False,4h 45m ,FRA,Frankfurt am Main,$190 ,Booking.com
+Multiple Airlines,5:20 ,12:05 ,HEL,VIE,7h 45m,False,45m ,RIX,Riga Intl,$160 ,Booking.com
+Lufthansa,5:40 ,11:15 ,HEL,VIE,6h 35m,False,2h 20m ,FRA,Frankfurt am Main,$316 ,Booking.com
+SWISS,6:30 ,2:05 ,HEL,VIE,8h 35m,False,45m ,CPH,Kastrup Copenhagen,$244 ,Booking.com
+Multiple Airlines,1:35 ,11:00 ,HEL,VIE,10h 25m,False,3h 10m ,ARN,Stockholm Arlanda,$114 ,Booking.com
+Lufthansa,7:00 ,2:15 ,HEL,VIE,8h 15m,False,1h 15m ,MUC,Munich Franz Josef Strauss,$238 ,Booking.com
+SWISS,1:30 ,8:45 ,HEL,VIE,8h 15m,False,2h 20m ,ARN,Stockholm Arlanda,$275 ,Booking.com
+Lufthansa,10:05 ,6:45 ,HEL,VIE,9h 40m,False,2h 30m ,CPH,Kastrup Copenhagen,$207 ,Booking.com
+Lufthansa,10:05 ,6:45 ,HEL,VIE,9h 40m,False,3h 35m ,CPH,Kastrup Copenhagen,$207 ,Booking.com
+Lufthansa,4:25 ,11:15 ,HEL,VIE,7h 50m,False,2h 15m ,ARN,Stockholm Arlanda,$301 ,Booking.com
+Lufthansa,10:05 ,6:45 ,HEL,VIE,9h 40m,False,2h 50m ,CPH,Kastrup Copenhagen,$212 ,Booking.com
+Multiple Airlines,7:25 ,5:35 ,HEL,VIE,11h 10m,False,7h 45m ,ARN,Stockholm Arlanda,$149 ,Booking.com
+Lufthansa,6:30 ,2:15 ,HEL,VIE,8h 45m,False,2h 50m ,CPH,Kastrup Copenhagen,$260 ,Booking.com
+Lufthansa,10:05 ,5:40 ,HEL,VIE,8h 35m,False,2h 30m ,CPH,Kastrup Copenhagen,$269 ,Booking.com
+Lufthansa,10:15 ,6:45 ,HEL,VIE,9h 30m,False,3h 50m ,ARN,Stockholm Arlanda,$229 ,Booking.com
+SWISS,10:05 ,7:10 ,HEL,VIE,10h 05m,False,4h ,CPH,Kastrup Copenhagen,$212 ,Booking.com
+Lufthansa,6:30 ,3:05 ,HEL,VIE,9h 35m,False,2h 50m ,CPH,Kastrup Copenhagen,$235 ,Booking.com
+Lufthansa,7:05 ,3:05 ,HEL,VIE,9h 00m,False,4h 45m ,FRA,Frankfurt am Main,$243 ,Booking.com
+Multiple Airlines,8:40 ,5:35 ,HEL,VIE,9h 55m,False,3h 05m ,RIX,Riga Intl,$206 ,Booking.com
+Austrian Airlines,2:00 ,11:15 ,HEL,VIE,10h 15m,False,6h ,FRA,Frankfurt am Main,$192 ,Booking.com
+Multiple Airlines,8:40 ,5:35 ,HEL,VIE,9h 55m,False,3h 05m ,RIX,Riga Intl,$210 ,Booking.com
+Austrian Airlines,7:25 ,5:35 ,HEL,VIE,11h 10m,False,7h 45m ,ARN,Stockholm Arlanda,$179 ,Booking.com
+Lufthansa,10:05 ,7:30 ,HEL,VIE,10h 25m,False,3h 35m ,CPH,Kastrup Copenhagen,$207 ,Booking.com
+Scandinavian Airlines,1:15 ,9:05 ,HEL,VIE,8h 50m,False,1h 55m ,OSL,Oslo Gardermoen,$285 ,Booking.com
+Scandinavian Airlines,10:05 ,5:40 ,HEL,VIE,8h 35m,False,2h 50m ,CPH,Kastrup Copenhagen,$296 ,Booking.com
+Scandinavian Airlines,10:05 ,5:40 ,HEL,VIE,8h 35m,False,2h 30m ,CPH,Kastrup Copenhagen,$297 ,Booking.com
+Lufthansa,10:05 ,7:30 ,HEL,VIE,10h 25m,False,2h 30m ,CPH,Kastrup Copenhagen,$212 ,Booking.com
+Lufthansa,10:05 ,7:30 ,HEL,VIE,10h 25m,False,2h 50m ,CPH,Kastrup Copenhagen,$212 ,Booking.com
+Lufthansa,1:30 ,9:05 ,HEL,VIE,8h 35m,False,35m ,ARN,Stockholm Arlanda,$301 ,Booking.com
+Lufthansa,1:30 ,9:05 ,HEL,VIE,8h 35m,False,2h 45m ,ARN,Stockholm Arlanda,$301 ,Booking.com
+SWISS,10:15 ,7:10 ,HEL,VIE,9h 55m,False,3h 10m ,ARN,Stockholm Arlanda,$238 ,Booking.com
+Scandinavian Airlines,6:30 ,2:15 ,HEL,VIE,8h 45m,False,2h 50m ,CPH,Kastrup Copenhagen,$297 ,Booking.com
+Lufthansa,10:15 ,7:30 ,HEL,VIE,10h 15m,False,3h 50m ,ARN,Stockholm Arlanda,$229 ,Booking.com
+Lufthansa,7:00 ,3:05 ,HEL,VIE,9h 05m,False,1h 15m ,MUC,Munich Franz Josef Strauss,$254 ,Booking.com
+Multiple Airlines,8:40 ,6:40 ,HEL,VIE,11h 00m,False,8h ,RIX,Riga Intl,$182 ,Booking.com
+SWISS,6:30 ,4:25 ,HEL,VIE,10h 55m,False,2h 25m ,CPH,Kastrup Copenhagen,$212 ,Booking.com
+SWISS,1:30 ,10:10 ,HEL,VIE,9h 40m,False,2h 20m ,ARN,Stockholm Arlanda,$275 ,Booking.com
+Scandinavian Airlines,10:05 ,7:20 ,HEL,VIE,10h 15m,False,6h 45m ,CPH,Kastrup Copenhagen,$254 ,Booking.com
+Scandinavian Airlines,10:15 ,6:45 ,HEL,VIE,9h 30m,False,3h 50m ,ARN,Stockholm Arlanda,$287 ,Booking.com
+Lufthansa,2:00 ,10:40 ,HEL,VIE,9h 40m,False,2h 25m ,FRA,Frankfurt am Main,$287 ,Booking.com
+Multiple Airlines,11:40 ,8:50 ,HEL,VIE,10h 10m,False,6h 40m ,ARN,Stockholm Arlanda,$148 ,Booking.com
+Lufthansa,2:00 ,11:15 ,HEL,VIE,10h 15m,False,6h ,FRA,Frankfurt am Main,$243 ,Booking.com
+Scandinavian Airlines,6:30 ,3:05 ,HEL,VIE,9h 35m,False,2h 50m ,CPH,Kastrup Copenhagen,$295 ,Booking.com
+British Airways,4:00 ,10:00 ,HEL,VIE,7h 00m,False,1h 40m ,LHR,London Heathrow,$430 ,Booking.com
+Scandinavian Airlines,10:05 ,6:45 ,HEL,VIE,9h 40m,False,2h 30m ,CPH,Kastrup Copenhagen,$295 ,Booking.com
+Scandinavian Airlines,10:05 ,6:45 ,HEL,VIE,9h 40m,False,2h 50m ,CPH,Kastrup Copenhagen,$295 ,Booking.com
+Brussels Airlines,7:05 ,4:40 ,HEL,VIE,10h 35m,False,2h 35m ,FRA,Frankfurt am Main,$224 ,Booking.com
+Multiple Airlines,1:35 ,11:00 ,HEL,VIE,10h 25m,False,3h 10m ,ARN,Stockholm Arlanda,$210 ,Booking.com
+SWISS,6:30 ,4:25 ,HEL,VIE,10h 55m,False,45m ,CPH,Kastrup Copenhagen,$244 ,Booking.com
+Austrian Airlines,12:45 ,10:40 ,HEL,VIE,10h 55m,False,7h ,MUC,Munich Franz Josef Strauss,$257 ,Booking.com
+Scandinavian Airlines,7:25 ,5:35 ,HEL,VIE,11h 10m,False,7h 45m ,ARN,Stockholm Arlanda,$246 ,Booking.com
+Scandinavian Airlines,10:05 ,6:45 ,HEL,VIE,9h 40m,False,3h 35m ,CPH,Kastrup Copenhagen,$314 ,Booking.com
+Scandinavian Airlines,10:15 ,7:30 ,HEL,VIE,10h 15m,False,3h 50m ,ARN,Stockholm Arlanda,$287 ,Booking.com
+Lufthansa,2:00 ,10:40 ,HEL,VIE,9h 40m,False,1h 25m ,FRA,Frankfurt am Main,$287 ,Booking.com
+Lufthansa,1:30 ,10:40 ,HEL,VIE,10h 10m,False,4h 55m ,ARN,Stockholm Arlanda,$294 ,Booking.com
+Lufthansa,1:30 ,10:40 ,HEL,VIE,10h 10m,False,1h 35m ,ARN,Stockholm Arlanda,$294 ,Booking.com
+British Airways,2:00 ,10:00 ,HEL,VIE,9h 00m,False,3h 25m ,LHR,London Heathrow,$374 ,Booking.com
+KLM,7:00 ,4:10 ,HEL,VIE,10h 10m,False,5h 40m ,AMS,Amsterdam Schiphol,$288 ,Booking.com
+Scandinavian Airlines,1:30 ,6:45 ,HEL,VIE,6h 15m,False,35m ,ARN,Stockholm Arlanda,$507 ,Booking.com
+Scandinavian Airlines,1:15 ,11:15 ,HEL,VIE,11h 00m,False,1h 55m ,OSL,Oslo Gardermoen,$283 ,Booking.com
+Scandinavian Airlines,1:15 ,11:15 ,HEL,VIE,11h 00m,False,4h 40m ,OSL,Oslo Gardermoen,$283 ,Booking.com
+Scandinavian Airlines,10:05 ,7:30 ,HEL,VIE,10h 25m,False,2h 50m ,CPH,Kastrup Copenhagen,$314 ,Booking.com
+Scandinavian Airlines,10:05 ,7:30 ,HEL,VIE,10h 25m,False,2h 30m ,CPH,Kastrup Copenhagen,$314 ,Booking.com
+Lufthansa,1:30 ,11:15 ,HEL,VIE,10h 45m,False,35m ,ARN,Stockholm Arlanda,$301 ,Booking.com
+Lufthansa,1:30 ,11:15 ,HEL,VIE,10h 45m,False,2h 45m ,ARN,Stockholm Arlanda,$301 ,Booking.com
+Lufthansa,1:30 ,11:15 ,HEL,VIE,10h 45m,False,5h 15m ,ARN,Stockholm Arlanda,$301 ,Booking.com
+Multiple Airlines,10:45 ,8:45 ,HEL,VIE,11h 00m,False,7h 35m ,CPH,Kastrup Copenhagen,$172 ,Booking.com
+Scandinavian Airlines,1:30 ,11:15 ,HEL,VIE,10h 45m,False,35m ,ARN,Stockholm Arlanda,$305 ,Booking.com
+CitizenPlane,11:45 ,6:55 ,HEL,VIE,8h 10m,False,4h 40m ,HAM,Hamburg,$416 ,Booking.com
+Brussels Airlines,7:05 ,4:40 ,HEL,VIE,10h 35m,False,4h 05m ,FRA,Frankfurt am Main,$310 ,Booking.com
+Austrian Airlines,12:45 ,4:45 ,HEL,VIE,5h 00m,False,1h 05m ,MUC,Munich Franz Josef Strauss,$583 ,Booking.com
+Lufthansa,12:45 ,4:45 ,HEL,VIE,5h 00m,False,1h 05m ,MUC,Munich Franz Josef Strauss,$589 ,Booking.com
+Lufthansa,12:45 ,10:40 ,HEL,VIE,10h 55m,False,7h ,MUC,Munich Franz Josef Strauss,$311 ,Booking.com
+Croatia Airlines,6:30 ,3:40 ,HEL,VIE,10h 10m,False,4h 05m ,CPH,Kastrup Copenhagen,$369 ,Booking.com
+Scandinavian Airlines,4:25 ,11:15 ,HEL,VIE,7h 50m,False,2h 15m ,ARN,Stockholm Arlanda,$511 ,Booking.com
+Austrian Airlines,12:45 ,8:20 ,HEL,VIE,8h 35m,False,4h 40m ,MUC,Munich Franz Josef Strauss,$491 ,Booking.com
+Lufthansa,12:45 ,8:20 ,HEL,VIE,8h 35m,False,4h 40m ,MUC,Munich Franz Josef Strauss,$501 ,Booking.com
+British Airways,7:50 ,5:50 ,HEL,VIE,11h 00m,False,5h 20m ,LHR,London Heathrow,$473 ,Booking.com
+British Airways,7:50 ,1:25 ,HEL,VIE,6h 35m,False,1h ,LHR,London Heathrow,$712 ,Booking.com
+Scandinavian Airlines,7:25 ,5:40 ,HEL,VIE,11h 15m,False,2h 05m ,ARN,Stockholm Arlanda,$511 ,Booking.com
+British Airways,7:50 ,4:05 ,HEL,VIE,9h 15m,False,3h 40m ,LHR,London Heathrow,$627 ,Booking.com
+Austrian Airlines,7:00 ,4:45 ,HEL,VIE,10h 45m,False,6h 55m ,MUC,Munich Franz Josef Strauss,$559 ,Booking.com
